@@ -1,0 +1,3 @@
+IF<A[normal]>THEN<B[normal]>
+IF<B[normal]>THEN<C[normal]>
+IF<C[normal]>THEN<D[normal]>
